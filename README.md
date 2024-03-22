@@ -2,6 +2,10 @@
 
 The **Internal Management System** is a WPF (Windows Presentation Foundation) application designed to assist in managing various internal processes and tasks within an organization. It provides a user-friendly interface for handling projects, clients, invoices, messages, and user profiles.
 
+## Authors
+
+- [@shenugayana](https://www.github.com/shenugayana)
+
 ## Features
 
 - **Dashboard**: An intuitive dashboard that provides an overview of ongoing projects, recent messages, and important notifications.
@@ -35,3 +39,5 @@ The repository is structured as follows:
 - `UserControls`: Contains reusable user controls that are used across different windows to maintain consistency in UI elements.
 
 - `Images`: Holds images used within the application, such as avatars and icons.
+
+Happy coding!
